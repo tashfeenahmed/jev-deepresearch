@@ -7,9 +7,7 @@ calibrated probabilities back in one forward pass, in a few hundred
 milliseconds, for a fraction of a cent. That turns out to be exactly the shape
 of every decision a research crawl has to make per page.
 
-https://github.com/tashfeenahmed/jev-deepresearch/releases/download/v0.1.0/demo.mp4
-
-[![Unfold demo](docs/demo-poster.jpg)](https://github.com/tashfeenahmed/jev-deepresearch/releases/download/v0.1.0/demo.mp4)
+[![Unfold demo — click to play](docs/demo-poster.jpg)](https://github.com/tashfeenahmed/jev-deepresearch/blob/main/docs/demo.mp4)
 
 *A depth-2 run, first 1:09 at 2× speed. Music: Mozart, Symphony No. 40, Musopen Symphony Orchestra (public domain).*
 

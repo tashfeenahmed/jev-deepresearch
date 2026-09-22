@@ -1,0 +1,20 @@
+{
+  "name": "unfold",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Depth-crawling research agent: Jev filters pages, Qwen writes the report.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "tunnel": "ssh -N -L 8888:127.0.0.1:8888 ${SEARXNG_SSH_HOST:-user@your-searxng-host}"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "lucide": "^1.47.0",
+    "playwright": "^1.63.0"
+  },
+  "license": "MIT"
+}
